@@ -1,0 +1,7 @@
+{
+  "testConfig": {
+    "app": {
+      "baseUrl": "http://shop.nabis.com/"
+    }
+  }
+}

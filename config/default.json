@@ -1,0 +1,12 @@
+{
+  "testConfig": {
+    "app": {
+      "baseUrl": "http:/localhost/"
+    },
+    "user": {
+      "firstName": "Bruce",
+      "lastName": "Wayne",
+      "email": "imnotbatman@hotmail.com"
+    }
+  }
+}

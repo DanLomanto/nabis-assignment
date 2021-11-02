@@ -1,0 +1,8 @@
+# build output
+dist
+
+# 3rd Party libraries
+node_modules
+
+# machine-specific environment file
+.env
